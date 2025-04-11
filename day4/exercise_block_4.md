@@ -64,9 +64,9 @@ Define a **blog** index with fields:
 
 Write a search query to find blog posts that contain the term "elasticsearch" in the title or content.
 
-## Exercise 4: Filter Comments by User
+## Exercise 4: Blog Posts with Comments by User
 
-Write a query to filter comments made by the user "Jane Smith" in all blog posts. Sort the results by date in descending order.
+Write a query to find blog posts where the user "Jane Smith" made a comment.
 
 ## Exercise 5: Find Posts by Tag
 
