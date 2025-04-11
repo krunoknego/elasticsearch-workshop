@@ -70,8 +70,4 @@ Write a query to find blog posts where the user "Jane Smith" made a comment.
 
 ## Exercise 5: Find Posts by Tag
 
-Write a query to find all blog posts that have the tag "elasticsearch". Sort the results by date in descending order.
-
-## Exercise 6: Aggregation
-
-Write a query to count the number of comments for each blog post. The result should include the post title and the comment count.
+Write a query to find all blog posts that have the tag "elasticsearch".
